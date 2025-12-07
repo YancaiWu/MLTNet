@@ -1,0 +1,4 @@
+train: /root/balanced_sample_5000-RGBT-Tiny/train
+val: /root/balanced_sample_5000-RGBT-Tiny/val
+nc: 7
+names: ['bus', 'car', 'cyclist', 'drone', 'pedestrian', 'plane', 'ship']
